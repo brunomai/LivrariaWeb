@@ -12,3 +12,5 @@ C:\Users\bruno\Desktop\Projeto de Desenvolvimento\Alura.ListaLeitura\Alura.Lista
 C:\Users\bruno\Desktop\Projeto de Desenvolvimento\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 C:\Users\bruno\Desktop\Projeto de Desenvolvimento\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 C:\Users\bruno\Desktop\Projeto de Desenvolvimento\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Projeto de Desenvolvimento\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\formulario.html
+C:\Users\bruno\Desktop\Projeto de Desenvolvimento\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\para-ler.html

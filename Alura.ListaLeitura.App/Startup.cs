@@ -7,10 +7,11 @@ namespace Alura.ListaLeitura.App
     {
         public void ConfigureServices(IServiceCollection services)
         {           
-            services.AddMvcCore();
+            services.AddMvc();
         }
         public void Configure(IApplicationBuilder app)
-        {       
+        {
+            app.UseDeveloperExceptionPage();
             app.UseMvcWithDefaultRoute();
         }     
     }
